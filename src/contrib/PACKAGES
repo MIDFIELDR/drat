@@ -1,0 +1,8 @@
+Package: midfielddata
+Version: 0.1.0
+Depends: R (>= 3.5.0)
+Imports: tibble
+Suggests: spelling
+License: CC0
+MD5sum: 9014e44b0b9b642ae6de5eb79dc00d8a
+NeedsCompilation: no
