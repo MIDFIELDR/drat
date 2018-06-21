@@ -1,4 +1,4 @@
 
-## drat
+## MIDFIELD/drat
 
-A repository for midfielddata, an R data package.
+A GitHub repository for MIDFIELD datasets using the drat package.
