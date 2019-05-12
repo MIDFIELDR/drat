@@ -4,5 +4,5 @@ Depends: R (>= 3.5.0)
 Imports: tibble
 Suggests: spelling
 License: CC0
-MD5sum: 7c5655902f4611fa0dff1359f28acc0c
+MD5sum: 3da023e429ac8ca562bc619bf523b3c3
 NeedsCompilation: no
