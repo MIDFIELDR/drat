@@ -6,3 +6,12 @@ Suggests: spelling
 License: CC0
 MD5sum: 3da023e429ac8ca562bc619bf523b3c3
 NeedsCompilation: no
+
+Package: midfielddata
+Version: 0.1.1
+Depends: R (>= 3.5.0)
+Imports: tibble
+Suggests: spelling
+License: CC0
+MD5sum: 0f6adea4d0cf7c02e5609c079e792617
+NeedsCompilation: no
