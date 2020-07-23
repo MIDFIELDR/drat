@@ -11,3 +11,24 @@ please see:
 
   - [midfieldr](https://midfieldr.github.io/midfieldr/)
   - [midfielddata](https://midfieldr.github.io/midfielddata/)
+
+## news
+
+2020-07-23 version 0.1.1
+
+  - reformatted data frames as data.tables
+  - GitHub release
+
+2018-06-20 version 0.1.0
+
+  - made public on GitHub
+
+<!-- ### New features -->
+
+<!-- ### Minor improvements -->
+
+<!-- ### Bug fixes -->
+
+<!-- ### Deprecated -->
+
+<!-- ### Defunct -->
