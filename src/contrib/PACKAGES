@@ -3,5 +3,5 @@ Version: 0.1.2
 Depends: R (>= 3.5.0)
 Suggests: spelling
 License: CC0
-MD5sum: cf925859be83fb414e53edb7cfb5e660
+MD5sum: f46d877ca1dbe4b1dd733de2bbb386dc
 NeedsCompilation: no
