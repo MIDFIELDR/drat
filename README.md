@@ -1,18 +1,32 @@
 
-## midfielddata repository
+## MIDFIELD repository
 
-R data package with a stratified sample of the MIDFIELD database of
-student records (registrar’s data) for 98,000 undergraduates at
-participating US institutions from 1987 to 2016.
-
-This repository contains the midfielddata source files (tar.gz) used
-with the midfieldr package. For installation and usage information,
-please see:
+Package source repo for midfieldr and midfielddata.
 
 -   [midfieldr](https://midfieldr.github.io/midfieldr/)
 -   [midfielddata](https://midfieldr.github.io/midfielddata/)
 
+To install midfieldr:
+
+``` r
+install.packages("midfieldr", 
+                 repos = "https://MIDFIELDR.github.io/drat/", 
+                 type = "source")
+```
+
+To install midfielddata:
+
+``` r
+install.packages("midfielddata", 
+                 repos = "https://MIDFIELDR.github.io/drat/", 
+                 type = "source")
+```
+
 ## news
+
+2021-06-30
+
+Added midfieldr package to drat repo
 
 2021-06-02 version 0.1.2
 
