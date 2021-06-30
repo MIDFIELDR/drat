@@ -3,5 +3,17 @@ Version: 0.1.2
 Depends: R (>= 3.5.0)
 Suggests: spelling
 License: CC0
-MD5sum: d02c4b45f2811e777148677f055083ff
+MD5sum: b952d6d91b4e9ff856536482c3eda270
+NeedsCompilation: no
+
+Package: midfieldr
+Version: 1.0.0.9018
+Depends: R (>= 3.5.0)
+Imports: checkmate, data.table (>= 1.9.8), Rdpack, stats,
+      wrapr
+Suggests: covr, ggplot2, here, janitor, kableExtra, knitr,
+      markdown, mice, midfielddata (>= 0.1.2), rmarkdown,
+      rprojroot, tinytest
+License: GPL (>= 2)
+MD5sum: 5f8f5933ddbdb8eb066a30ae1e256f8f
 NeedsCompilation: no
