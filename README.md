@@ -24,6 +24,10 @@ install.packages("midfielddata",
 
 ## news
 
+2022-06-18
+
+Corrected midfielddata typos
+
 2021-06-30
 
 Added midfieldr package to drat repo
