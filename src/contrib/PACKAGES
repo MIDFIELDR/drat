@@ -1,17 +1,9 @@
 Package: midfielddata
-Version: 0.1.3
-Depends: R (>= 3.5.0)
-Suggests: data.table, spelling, tinytest, wrapr
-License: CC0
-MD5sum: 8d085de8af7dc7c54d91ed61820138c7
-NeedsCompilation: no
-
-Package: midfielddata
 Version: 0.1.4
 Depends: R (>= 3.5.0)
 Suggests: data.table, spelling, tinytest, wrapr
 License: CC0
-MD5sum: 9392323420b794f32b082aaf7731d969
+MD5sum: b1cd7041eb34cb89e3e9cbca02eac0ef
 NeedsCompilation: no
 
 Package: midfieldr
