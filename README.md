@@ -24,6 +24,16 @@ install.packages("midfielddata",
 
 ## news
 
+2022-06-29
+
+midfieldr_1.0.0.9022 uploaded
+
+2022-06-23
+
+midfieldr_1.0.0.9021 uploaded
+
+midfielddata_0.1.4 uploaded
+
 2022-06-18
 
 Corrected midfielddata typos
