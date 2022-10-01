@@ -24,6 +24,10 @@ install.packages("midfielddata",
 
 ## news
 
+2022-10-01
+
+midfielddata_0.1.5 uploaded
+
 2022-09-22
 
 midfieldr_1.0.0.9026 uploaded. Add FYE vignette and `prep_fye_mice()`

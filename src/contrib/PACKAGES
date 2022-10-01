@@ -6,12 +6,20 @@ License: CC0
 MD5sum: 868023462eae3f525b20d08b3abbc18d
 NeedsCompilation: no
 
+Package: midfielddata
+Version: 0.1.5
+Depends: R (>= 3.5.0)
+Suggests: data.table, kableExtra, knitr, spelling, tinytest, wrapr
+License: CC0
+MD5sum: 5c3a5262f797724f5a78c8489ff68982
+NeedsCompilation: no
+
 Package: midfieldr
 Version: 1.0.0.9025
 Depends: R (>= 3.5.0)
 Imports: checkmate, data.table (>= 1.9.8), stats, wrapr
-Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice, midfielddata (>= 0.1.4), rmarkdown,
-            rprojroot, tinytest
+Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice,
+         midfielddata (>= 0.1.4), rmarkdown, rprojroot, tinytest
 License: GPL (>= 2)
 MD5sum: 64e11d8d0ee69988e230b12a146377fb
 NeedsCompilation: no
@@ -20,8 +28,8 @@ Package: midfieldr
 Version: 1.0.0.9026
 Depends: R (>= 3.5.0)
 Imports: checkmate, data.table (>= 1.9.8), stats, wrapr
-Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice, midfielddata (>= 0.1.4), rmarkdown,
-            rprojroot, tinytest
+Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice,
+         midfielddata (>= 0.1.4), rmarkdown, rprojroot, tinytest
 License: GPL (>= 2)
 MD5sum: a3a1e6701e1ee9a0834dcb581e5c1363
 NeedsCompilation: no
