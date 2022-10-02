@@ -31,5 +31,5 @@ Imports: checkmate, data.table (>= 1.9.8), stats, wrapr
 Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice,
          midfielddata (>= 0.1.4), rmarkdown, rprojroot, tinytest
 License: GPL (>= 2)
-MD5sum: a3a1e6701e1ee9a0834dcb581e5c1363
+MD5sum: 142e47aac37463cb43f0b05cd81e5b63
 NeedsCompilation: no
