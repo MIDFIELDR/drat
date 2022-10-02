@@ -11,7 +11,7 @@ Version: 0.1.5
 Depends: R (>= 3.5.0)
 Suggests: data.table, kableExtra, knitr, spelling, tinytest, wrapr
 License: CC0
-MD5sum: 5c3a5262f797724f5a78c8489ff68982
+MD5sum: 61b8947f30b5878be698cb01f9e359db
 NeedsCompilation: no
 
 Package: midfieldr
