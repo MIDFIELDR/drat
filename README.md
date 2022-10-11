@@ -24,6 +24,10 @@ install.packages("midfielddata",
 
 ## news
 
+2022-10-11
+
+midfieldr_1.0.0.9027 uploaded. FYE vignettes.
+
 2022-10-02
 
 midfieldr_1.0.0.9026 uploaded. Consistent comments.  
