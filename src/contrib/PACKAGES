@@ -43,3 +43,13 @@ Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice,
 License: GPL (>= 2)
 MD5sum: 485bcdd3dd3c98acd573200f1d931177
 NeedsCompilation: no
+
+Package: midfieldr
+Version: 1.0.0.9028
+Depends: R (>= 3.5.0)
+Imports: checkmate, data.table (>= 1.9.8), stats, wrapr
+Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice,
+         midfielddata (>= 0.1.4), rmarkdown, rprojroot, tinytest
+License: GPL (>= 2)
+MD5sum: d4db3c170d310090c0056886bccc2a70
+NeedsCompilation: no

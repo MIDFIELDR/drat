@@ -3,8 +3,8 @@
 
 Package source repo for midfieldr and midfielddata.
 
--   [midfieldr](https://midfieldr.github.io/midfieldr/)
--   [midfielddata](https://midfieldr.github.io/midfielddata/)
+- [midfieldr](https://midfieldr.github.io/midfieldr/)
+- [midfielddata](https://midfieldr.github.io/midfielddata/)
 
 To install midfieldr:
 
@@ -26,6 +26,7 @@ install.packages("midfielddata",
 
 2022-10-11
 
+midfieldr_1.0.0.9028 uploaded. Graduation rate and stickiness.  
 midfieldr_1.0.0.9027 uploaded. FYE vignettes.
 
 2022-10-02
@@ -66,17 +67,17 @@ Added midfieldr package to drat repo
 
 2021-06-02 version 0.1.2
 
--   revised table names to match research data
--   revised variable names and values to match research data
+- revised table names to match research data
+- revised variable names and values to match research data
 
 2020-07-23 version 0.1.1
 
--   reformatted data frames as data.tables
--   GitHub release
+- reformatted data frames as data.tables
+- GitHub release
 
 2018-06-20 version 0.1.0
 
--   made public on GitHub
+- made public on GitHub
 
 <!-- ### New features -->
 <!-- ### Minor improvements -->
