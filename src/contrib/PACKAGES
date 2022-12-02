@@ -19,7 +19,7 @@ Version: 0.2.0
 Depends: R (>= 3.5.0)
 Suggests: data.table, kableExtra, knitr, tinytest, wrapr
 License: CC0
-MD5sum: 2b1c4a06b1284dc9f73f3f786d2610b0
+MD5sum: f78daa975add9c3ddea67ee9fbdfc5b4
 NeedsCompilation: no
 
 Package: midfieldr
