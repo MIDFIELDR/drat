@@ -24,46 +24,49 @@ install.packages("midfielddata",
 
 ## news
 
+2022-12-01
+
+- midfielddata v0.2.0, new sample, all four data tables
+
 2022-10-11
 
-midfieldr_1.0.0.9028 uploaded. Graduation rate and stickiness.  
-midfieldr_1.0.0.9027 uploaded. FYE vignettes.
+- midfieldr_1.0.0.9028 uploaded. Graduation rate and stickiness.  
+- midfieldr_1.0.0.9027 uploaded. FYE vignettes.
 
 2022-10-02
 
-midfieldr_1.0.0.9026 uploaded. Consistent comments.  
-midfielddata_0.1.5 uploaded
+- midfieldr_1.0.0.9026 uploaded. Consistent comments.  
+- midfielddata_0.1.5 uploaded
 
 2022-09-22
 
-midfieldr_1.0.0.9026 uploaded. Add FYE vignette and `prep_fye_mice()`
+- midfieldr_1.0.0.9026 uploaded. Add FYE vignette and `prep_fye_mice()`
 
 2022-07-19
 
-midfieldr_1.0.0.9025 uploaded. Should be stable for the MIDFIELD
-Institute
+- midfieldr_1.0.0.9025 uploaded. Should be stable for the MIDFIELD
+  Institute
 
 2022-07-16
 
-midfieldr_1.0.0.9024 uploaded
+- midfieldr_1.0.0.9024 uploaded
 
 2022-06-29
 
-midfieldr_1.0.0.9022 uploaded
+- midfieldr_1.0.0.9022 uploaded
 
 2022-06-23
 
-midfieldr_1.0.0.9021 uploaded
-
-midfielddata_0.1.4 uploaded
+- midfieldr_1.0.0.9021 uploaded
+- midfielddata_0.1.4 uploaded
 
 2022-06-18
 
-Corrected midfielddata typos
+- Corrected midfielddata typos
 
 2021-06-30
 
-Added midfieldr package to drat repo
+- Added midfieldr package to drat repo
 
 2021-06-02 version 0.1.2
 
