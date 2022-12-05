@@ -27,6 +27,7 @@ install.packages("midfielddata",
 2022-12-01
 
 - midfielddata v0.2.0, new sample, all four data tables
+- Revise README and documentation
 
 2022-10-11
 
