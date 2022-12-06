@@ -19,15 +19,15 @@ Version: 0.2.0
 Depends: R (>= 3.5.0)
 Suggests: data.table, kableExtra, knitr, tinytest, wrapr
 License: CC0
-MD5sum: fc9bde8ce713c090be1de24ebe70a36b
+MD5sum: 737f3b9280de8a175ab88b054c56d1a6
 NeedsCompilation: no
 
 Package: midfieldr
 Version: 1.0.0.9025
 Depends: R (>= 3.5.0)
 Imports: checkmate, data.table (>= 1.9.8), stats, wrapr
-Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice, midfielddata
-          (>= 0.1.4), rmarkdown, rprojroot, tinytest
+Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice, midfielddata (>=
+          0.1.4), rmarkdown, rprojroot, tinytest
 License: GPL (>= 2)
 MD5sum: 64e11d8d0ee69988e230b12a146377fb
 NeedsCompilation: no
@@ -36,8 +36,8 @@ Package: midfieldr
 Version: 1.0.0.9026
 Depends: R (>= 3.5.0)
 Imports: checkmate, data.table (>= 1.9.8), stats, wrapr
-Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice, midfielddata
-          (>= 0.1.4), rmarkdown, rprojroot, tinytest
+Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice, midfielddata (>=
+          0.1.4), rmarkdown, rprojroot, tinytest
 License: GPL (>= 2)
 MD5sum: 142e47aac37463cb43f0b05cd81e5b63
 NeedsCompilation: no
@@ -46,8 +46,8 @@ Package: midfieldr
 Version: 1.0.0.9027
 Depends: R (>= 3.5.0)
 Imports: checkmate, data.table (>= 1.9.8), stats, wrapr
-Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice, midfielddata
-          (>= 0.1.4), rmarkdown, rprojroot, tinytest
+Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice, midfielddata (>=
+          0.1.4), rmarkdown, rprojroot, tinytest
 License: GPL (>= 2)
 MD5sum: 485bcdd3dd3c98acd573200f1d931177
 NeedsCompilation: no
@@ -56,8 +56,8 @@ Package: midfieldr
 Version: 1.0.0.9028
 Depends: R (>= 3.5.0)
 Imports: checkmate, data.table (>= 1.9.8), stats, wrapr
-Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice, midfielddata
-          (>= 0.1.4), rmarkdown, rprojroot, tinytest
+Suggests: covr, ggplot2, here, janitor, kableExtra, knitr, markdown, mice, midfielddata (>=
+          0.1.4), rmarkdown, rprojroot, tinytest
 License: GPL (>= 2)
 MD5sum: d4db3c170d310090c0056886bccc2a70
 NeedsCompilation: no
