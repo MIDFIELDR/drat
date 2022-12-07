@@ -24,9 +24,10 @@ install.packages("midfielddata",
 
 ## news
 
-2022-12-01
+2022-12-06
 
 - midfielddata v0.2.0, new sample, all four data tables
+- midfieldr v1.0.0.9029 in progress
 - Revise README and documentation
 
 2022-10-11
