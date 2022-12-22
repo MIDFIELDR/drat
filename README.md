@@ -24,6 +24,11 @@ install.packages("midfielddata",
 
 ## news
 
+2022-12-22
+
+- midfieldr v1.0.0.9030 ready for checking functions yield correct
+  results
+
 2022-12-06
 
 - midfielddata v0.2.0, new sample, all four data tables
