@@ -24,6 +24,10 @@ install.packages("midfielddata",
 
 ## news
 
+2023–06–23
+
+- midfieldr v1.0.1 prepared for CRAN
+
 2022-12-22
 
 - midfieldr v1.0.0.9030 ready for checking functions yield correct
