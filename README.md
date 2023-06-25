@@ -1,10 +1,13 @@
 
-## MIDFIELD repository
+## MIDFIELD `drat` repository
 
-Package source repo for midfieldr and midfielddata.
+Two R packages that provide tools, methods, and practice data for
+studying undergraduate student-level records from the MIDFIELD database.
 
-- [midfieldr](https://midfieldr.github.io/midfieldr/)
-- [midfielddata](https://midfieldr.github.io/midfielddata/)
+- [midfieldr](https://midfieldr.github.io/midfieldr/) for tools and
+  methods
+- [midfielddata](https://midfieldr.github.io/midfielddata/) for practice
+  data
 
 To install midfieldr:
 
