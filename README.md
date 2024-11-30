@@ -9,21 +9,20 @@ studying undergraduate student-level records from the MIDFIELD database.
 - [midfielddata](https://midfieldr.github.io/midfielddata/) for practice
   data
 
-To install midfieldr (from CRAN):
+Install midfieldr (from CRAN) using:
 
 ``` r
 install.packages("midfieldr")
 ```
 
-To install from the drat repo (should be identical to CRAN version)
+Install the latest development version (from GitHub) using:
 
 ``` r
-install.packages("midfieldr", 
-                 repos = "https://MIDFIELDR.github.io/drat/", 
-                 type = "source")
+install.packages("pak")
+pak::pkg_install("MIDFIELDR/midfieldr")
 ```
 
-To install midfielddata (only available from the drat repo):
+Install midfielddata (only available from the drat repo) using:
 
 ``` r
 install.packages("midfielddata", 
@@ -32,6 +31,10 @@ install.packages("midfielddata",
 ```
 
 ## news
+
+2024–11–30
+
+- midfielddata v0.2.2 posted to drat repo
 
 2024–05–16
 
