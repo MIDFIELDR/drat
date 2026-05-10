@@ -18,8 +18,16 @@ Package: midfieldr
 Version: 1.0.2
 Depends: R (>= 3.5.0)
 Imports: checkmate, data.table (>= 1.9.8), stats, wrapr
-Suggests: ggplot2, here, kableExtra, knitr, mice,
-      midfielddata (>= 0.2.0), rmarkdown, tinytest
+Suggests: ggplot2, here, kableExtra, knitr, mice, midfielddata (>= 0.2.0), rmarkdown, tinytest
 License: MIT + file LICENSE
 MD5sum: 30b9bffaf3bf517e2e6e0875526e8aed
+NeedsCompilation: no
+
+Package: midfieldr
+Version: 1.0.3
+Depends: R (>= 3.5.0)
+Imports: checkmate, data.table (>= 1.9.8), stats, wrapr
+Suggests: knitr, rmarkdown, tinytest
+License: MIT + file LICENSE
+MD5sum: 947535255f4fd77104704d073ef05f90
 NeedsCompilation: no
