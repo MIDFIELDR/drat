@@ -19,7 +19,7 @@ Version: 0.2.3
 Depends: R (>= 3.5.0)
 Suggests: data.table, knitr, rmarkdown, tinytest, wrapr
 License: CC0
-MD5sum: 9ddfbc823ff22d6fd4f06e8ee489b20f
+MD5sum: ba44de52c179f8872bfab4d84e8296b7
 NeedsCompilation: no
 
 Package: midfieldr
