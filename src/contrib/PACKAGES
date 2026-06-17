@@ -22,11 +22,20 @@ License: CC0
 MD5sum: 0e564f41d57ba5a41e2191942061a928
 NeedsCompilation: no
 
+Package: midfielddata
+Version: 0.2.4
+Depends: R (>= 3.5.0)
+Suggests: data.table, knitr, rmarkdown, tinytest
+License: CC0
+MD5sum: 69d894182933324927e356afbb35c274
+NeedsCompilation: no
+
 Package: midfieldr
 Version: 1.0.2
 Depends: R (>= 3.5.0)
 Imports: checkmate, data.table (>= 1.9.8), stats, wrapr
-Suggests: ggplot2, here, kableExtra, knitr, mice, midfielddata (>= 0.2.0), rmarkdown, tinytest
+Suggests: ggplot2, here, kableExtra, knitr, mice, midfielddata (>= 0.2.0),
+        rmarkdown, tinytest
 License: MIT + file LICENSE
 MD5sum: 30b9bffaf3bf517e2e6e0875526e8aed
 NeedsCompilation: no
